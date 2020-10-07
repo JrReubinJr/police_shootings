@@ -6,8 +6,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-import sys
-sys.path.append('../')
+import seaborn as sns
 
 # Importing the dataset
 file = ('../Data/shootings.csv')
